@@ -6,7 +6,7 @@
 /*   By: aluque-l <aluque-l@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/29 17:39:25 by aluque-l          #+#    #+#             */
-/*   Updated: 2025/02/27 14:19:16 by aluque-l         ###   ########.fr       */
+/*   Updated: 2024/12/04 13:54:09 by aluque-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,8 +62,9 @@ int	ft_printf(const char *format, ...)
 
 /*int main (void)
 {
-	ft_printf(NULL);
- 	printf("%c", '\n');
+	ft_printf("%c", 'b');
+	printf("%c", '\n');
 	printf("%c", 'b');
-	printf("%c", '\n'); 
-}*/
+	printf("%c", '\n');
+}
+*/
